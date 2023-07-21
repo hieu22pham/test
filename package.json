@@ -4,5 +4,25 @@
     "date-fns": "^2.30.0",
     "firebase": "^10.0.0",
     "react-router-dom": "^6.14.1"
+  },
+  "name": "moneymall",
+  "version": "1.0.0",
+  "description": "A money mall server app.",
+  "main": "index.js",
+  "author": "Anbu Selvan",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "e": "0.0.4",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "pug": "^2.0.3",
+    "yarn": "^1.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "react-scripts": "^2.1.8"
   }
 }
